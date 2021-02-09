@@ -1,0 +1,29 @@
+{
+	"clusters": [
+		{
+			"vk": {
+				"token": "06485887547e52d0531b151c1b140d50bc107707785d2584843a2b947ba3de7f8e5414a58deb0d0778544",
+				"group_id": "sweetcucumbers.lyceum40",
+				"keywords": [],
+				"words_blacklist": [],
+				"filter": true,
+				"donut": false,
+				"ads": false,
+				"longpoll": true,
+				"interval": 30
+			},
+			"discord": {
+				"webhook_urls": [
+					"https://discord.com/api/webhooks/807634784985677844/wiVsrF5nEmnkQbIgJ9-N9IYmSeL0fGLvS3XNXN35u4xNCKky71jpao5I1TcgGcG0mHjn"
+				],
+				"username": "Огуречный",
+				"avatar_url": "https://thumbs.dreamstime.com/b/cucumber-circle-picture-was-taken-bulgaria-101486694.jpg",
+				"content": "@everyone",
+				"color": "#aabbcc",
+				"author": true,
+				"copyright": true
+			}
+		}
+	],
+	"version_dont_modify_me": 4
+}
